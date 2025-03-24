@@ -1,0 +1,24 @@
+2025-03-23T16:50:12.015-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-2025230135.sql
+2025-03-23T16:50:12.029-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-2025231244.sql
+2025-03-23T16:50:12.031-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-2025231257.sql
+2025-03-23T16:50:12.034-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-2025231258.sql
+2025-03-23T16:50:12.036-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-2025231301.sql
+2025-03-23T16:50:15.892-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading from board.DATABASECHANGELOG
+Database is up to date, no changesets to execute
+2025-03-23T16:50:15.979-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.changelog                      : Reading from board.DATABASECHANGELOG
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+2025-03-23T16:50:15.991-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : UPDATE SUMMARY
+2025-03-23T16:50:15.992-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : Run:                          0
+2025-03-23T16:50:15.992-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : Previously run:               5
+2025-03-23T16:50:15.992-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : Filtered out:                 0
+2025-03-23T16:50:15.992-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : -------------------------------
+2025-03-23T16:50:15.992-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : Total change sets:            5
+2025-03-23T16:50:15.993-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.util                           : Update summary generated
+2025-03-23T16:50:15.994-03:00  INFO 40801 --- [Board-Java] [           main] liquibase.command                        : Command execution complete
